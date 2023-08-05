@@ -11,7 +11,7 @@ The dataset is a part of the large dataset maintained by the National Institute 
 There are 9 variables in the dataset:
 ![image](https://github.com/YuceNurs/Diabetes_Project/assets/79469109/327e0c19-7f66-4b29-83a9-7ad88557b486)
 
-Task 1: Exploratory Data Analysis
+Task 1: Exploratory Data Analysis 
 Step 1: Examine the overall picture.
 Step 2: Capture numerical and categorical variables.
 Step 3: Perform analysis of numerical and categorical variables.
