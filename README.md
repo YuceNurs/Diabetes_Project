@@ -9,6 +9,6 @@ The dataset is a part of the large dataset maintained by the National Institute 
 There are 9 variables in the dataset:
 
 Pregnancies: Number of pregnancies  
-![image](https://github.com/YuceNurs/Diabetes_Project/assets/79469109/5eddaa64-69fd-4bd9-8715-805f6f58e711)
+![image](https://github.com/YuceNurs/Diabetes_Project/assets/79469109/327e0c19-7f66-4b29-83a9-7ad88557b486)
 
  
