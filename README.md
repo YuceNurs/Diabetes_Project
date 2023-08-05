@@ -9,6 +9,7 @@ The dataset is a part of the large dataset maintained by the National Institute 
 There are 9 variables in the dataset:
 
 Pregnancies: Number of pregnancies  
+
 Glucose : 2-hour plasma glucose concentration during an oral glucose tolerance test 
 Blood Pressure : Blood Pressure (Diastolic) (mm Hg). 
 SkinThickness : Thickness of skin 
