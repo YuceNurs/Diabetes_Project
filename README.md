@@ -13,7 +13,7 @@ There are 9 variables in the dataset:
 
 Task 1: Exploratory Data Analysis 
 Step 1: Examine the overall picture.
-Step 2: Capture numerical and categorical variables.
+Step 2: Capture numerical and categorical variables. 
 Step 3: Perform analysis of numerical and categorical variables.
 Step 4: Conduct analysis of the target variable. (Mean of the target variable by categorical variables, mean of numerical variables by the target variable)
 Step 5: Perform outlier observation analysis.
