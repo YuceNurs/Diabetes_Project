@@ -8,16 +8,15 @@ The dataset is a part of the large dataset maintained by the National Institute 
 
 There are 9 variables in the dataset:
 
-| :----------- | :----------------------------------------: |
-|Pregnancies | Number of pregnancies  |
-| Glucose | 2-hour plasma glucose concentration during an oral glucose tolerance test| Fiyatı |
-| Blood Pressure |Blood Pressure (Diastolic) (mm Hg). |
-| SkinThickness| Thickness of skin |
-| Insulin |2-Hour Serum Insulin (mu U/ml) |
-| DiabetesPedigreeFunction|Function (2-hour plasma glucose concentration during an oral glucose tolerance test)|
-| BMI | Body Mass Index (weight in kg/(height in meters)^2) |
-| Age | Persons age(in years) |
-| Outcome | Having diabetes status (1: diabetes, 0: no diabetes) |
+Pregnancies: Number of pregnancies  
+Glucose : 2-hour plasma glucose concentration during an oral glucose tolerance test 
+Blood Pressure : Blood Pressure (Diastolic) (mm Hg). 
+SkinThickness : Thickness of skin 
+Insulin : 2-Hour Serum Insulin (mu U/ml) 
+DiabetesPedigreeFunction : Function (2-hour plasma glucose concentration during an oral glucose tolerance test)
+BMI : Body Mass Index (weight in kg/(height in meters)^2) 
+Age : Persons age(in years) 
+Outcome : Having diabetes status (1: diabetes, 0: no diabetes) 
 
 
  
