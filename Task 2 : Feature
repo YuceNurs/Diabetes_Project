@@ -1,6 +1,5 @@
 # Task 2: Feature
-# Bir insanda Pregnancies ve Outcome dışındaki değişken değerleri 0 olamayacağı bilinmektedir.
-# Bundan dolayı bu değerlerle ilgili aksiyon kararı alınmalıdır. 0 olan değerlere NaN atanabilir .
+# Bir insanda Pregnancies ve Outcome dışındaki değişken değerleri 0 olamayacağı için 0 olan değerlere NaN atanabilir .
 zero_columns = [col for col in df.columns if (df[col].min() == 0 and col not in ["Pregnancies", "Outcome"])]
 # Gözlem birimlerinde 0 olan degiskenlerini NaN ile değiştirdik.
 for col in zero_columns:
